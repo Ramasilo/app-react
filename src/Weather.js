@@ -59,7 +59,7 @@ export default function Weather() {
       </div>
 
       <p>
-        <a href="foo"> Open-source code </a>
+        <a href="https://github.com/Ramasilo/app-react"> Open-source code </a>
         by Precious Ramasilo
       </p>
     </div>

@@ -1,0 +1,53 @@
+.card {
+  margin: auto;
+  width: 47rem;
+}
+
+.sun {
+  width: 100px;
+  margin-top: 10px;
+}
+#temperature {
+  font-size: 68px;
+  margin-top: 0px;
+  margin-left: 20px;
+}
+.degree {
+  margin-top: 26px;
+  margin-left: -30px;
+  font-size: 15px;
+}
+#city {
+  padding-top: 50px;
+  font-size: 30px;
+}
+#time {
+  padding-left: 0px;
+}
+#day-details {
+  padding-left: 0px;
+}
+
+.humidity {
+  padding-top: 35px;
+}
+
+#search-button {
+  color: #fff;
+  background-color: #0069d9;
+  border: none;
+  border-radius: 10px;
+  width: 136px;
+  margin: 20px;
+  padding: 8px;
+}
+
+#search-city {
+  width: 530px;
+  margin: 5px;
+  padding: 6px;
+  border-radius: 10px;
+}
+p {
+  text-align: center;
+}
